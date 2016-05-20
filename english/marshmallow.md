@@ -1,6 +1,19 @@
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
 
+Who is better?
+
+[Click Here](captain/captain.md) to vote for Captain America
+
+[Click Here] (ironman/ironman.md) to vote for Iron Man
+
+[Click here] (00_8_Agent/The_name_is_Bond_Milton_Bond.md) to vote for a Special Agent
+
+January 2017 approaches. You have two presidential candidates to vote for.
+
+[Click](vote-the-president/trump/trump.md) here to vote for Donald Trump.
+
+[Click](vote-the-president/hillary/Hillary.md) here to vote for Hillary Clinton.
 
 Keith the Unicorn approaches you.
 He looks a little forlorn so you decide to [cheer him up.](unicorn/thebigquestion/thebigquestion.md)
@@ -69,6 +82,10 @@ The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtu
 *(Must be a Tuesday.)*
 
 Or a Wednesday...Thursday...maybe even a Friday, but definetely not a Saturday.
+
+Or a [Wednesday](make_changes_GitHub/make_changes_GitHub.md)...
+
+[Thursday](doug-adams/arthur-dent/arthur-dent.md)... maybe even a Friday, but definetely not a Saturday.
 
 Ok, we have to consider Saturday too.
 
@@ -949,3 +966,8 @@ Time to [move to Canada](Canada/Canada.md), eh?
 
 
 The crushing weight of all these options causes you to [end your life.](end/end.md)
+
+You're reincarnated as a green starfish but wish you were [blue instead.](starfish/starfish.md)
+
+You wake up as Harry Potter ... and are facing Voldemort in a duel? 
+What should you [do](magicaladventure/decision_time/decision_time.md)
